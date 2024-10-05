@@ -713,15 +713,13 @@ header {
   transform: scale(1);
 }
 
-.form-popUp-section .close-icon svg {
+.form-popUp-section .close-icon img {
   position: absolute;
   fill: white;
   cursor: pointer;
   z-index: 99;
-  right: 60px;
+  right: 30px;
   top: 20px;
-  height: 30px;
-  width: 30px;
 }
 
 .form-popUp-section::before {
